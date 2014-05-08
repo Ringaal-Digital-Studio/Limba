@@ -7,3 +7,7 @@ Author URI: URI
 Version: 1.0.0
 Tags: two-columns, flexible-width, threaded-comments, custom-menu, simple-theme
 **********************************************/
+body {
+  margin: 0;
+  padding: 0;
+}
